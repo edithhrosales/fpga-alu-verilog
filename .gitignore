@@ -1,0 +1,26 @@
+# Vivado temporary/generated files
+
+*.jou
+*.log
+*.str
+*.tmp
+
+.Xil/
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.srcs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Backup files
+*.bak
+desktop.ini
